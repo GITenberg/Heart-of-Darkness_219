@@ -1,5 +1,5 @@
 _repo: Heart-of-Darkness_219
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Louise Norman, 2015
   cover_type: original
@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: See also PG#526
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/219#Heart-of-Darkness
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Movie Books
